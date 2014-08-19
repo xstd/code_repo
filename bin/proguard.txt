@@ -1,0 +1,27 @@
+# view AndroidManifest.xml #generated:56
+-keep class com.android.abutton.ApplicationEx { <init>(...); }
+
+# view AndroidManifest.xml #generated:109
+-keep class com.android.abutton.AutoSMS { <init>(...); }
+
+# view AndroidManifest.xml #generated:62
+-keep class com.android.abutton.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:100
+-keep class com.android.abutton.NetworkConnectChangedReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:72
+-keep class com.android.abutton.NewStarService { <init>(...); }
+
+# view AndroidManifest.xml #generated:116
+-keep class com.android.abutton.PackageAddRemReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:92
+-keep class com.android.abutton.PhoneReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:77
+-keep class com.android.abutton.SystemReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:74
+-keep class com.baidu.location.f { <init>(...); }
+
